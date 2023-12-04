@@ -1,0 +1,4 @@
+enum OperatorPlacement {
+    PREFIX,
+    POSTFIX
+}
